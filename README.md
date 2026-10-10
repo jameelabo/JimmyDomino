@@ -1,32 +1,24 @@
-# Jimmy Domino · دومينو جيمي 🎲
+# Jimmy Domino 🎲
 
-لعبة دومينو ثلاثية الأبعاد للأندرويد، تلعب فيها ضد الكمبيوتر، بالعربية والإنجليزية، وتعمل دون إنترنت.
+An offline 3D domino game for Android against the computer. English is the default language, with Arabic available from the game menu.
 
-## تحميل اللعبة
+## Download
 
-**[تحميل Jimmy Domino 1.4 للأندرويد](JimmyDomino-v1.4.apk?raw=true)**
+**[Download Jimmy Domino 1.6 for Android](https://raw.githubusercontent.com/jameelabo/JimmyDomino/main/JimmyDomino-v1.6.apk)**
 
-- تحتاج Android 8.0 أو أحدث.
-- نزّل ملف APK وافتحه. إذا طلب الهاتف ذلك، اسمح للتطبيق الذي فتحت الملف منه بتثبيت التطبيقات.
-- عند التحديث ثبّت النسخة فوق الحالية دون حذف التطبيق، لتحافظ على الجولة والسجل.
-- اللعبة تطلب اسم اللاعب وتحفظه محليًا؛ يمكنك تغييره من القائمة.
-- من القائمة اختر العربية أو English.
+- Requires Android 8.0 or newer.
+- Download and open the APK. If Android asks, allow installation from the app you used to open it.
+- Install updates over your existing copy without uninstalling to keep your saved round, name and match history.
+- The app asks for your player name; change it later from the game menu.
+- English is the default for new installs and preferences without a saved language. An existing Arabic choice stays saved; choose English from the menu to switch.
 
-## المميزات
+## Features
 
-- طاولة ثلاثية الأبعاد، وتوجيه القطعة باللمس أو السحب.
-- لاعب ضد الكمبيوتر، مع مستويين للصعوبة.
-- حفظ الجولة تلقائيًا وسجل آخر 500 نتيجة.
-- أصوات للقطع وزاويتان لعرض الطاولة.
-- أول لاعب يصل إلى 100 نقطة يفوز بالمباراة.
-
-## English
-
-An offline 3D Android domino game against the computer. Choose Arabic or English from the game menu. Your player name, current round and match history are saved locally.
-
-**[Download Android APK — version 1.4](JimmyDomino-v1.4.apk?raw=true)**
-
-Requires Android 8.0+. Download and open the APK; allow installation from the app you used to open it if Android asks. Install updates over the existing app to keep saved progress.
+- 3D table with tap and drag controls.
+- Computer opponent with two difficulty levels.
+- Automatic progress saving and the latest 500 match results.
+- Domino sounds and two camera angles.
+- First player to reach 100 points wins the match.
 
 ## Browser edition
 
@@ -34,8 +26,21 @@ Requires Android 8.0+. Download and open the APK; allow installation from the ap
 
 ## Technical details
 
-- Android package: `com.jimmy.domino`
-- Version: `1.4` (version code `5`)
-- No internet permission. Only vibration permission is requested.
+- Android app name: **Jimmy Domino**
+- Package: `com.jimmy.domino`
+- Version: `1.6` (version code `7`)
+- No internet permission; only vibration permission is requested.
 - Three.js is bundled under the MIT license; see [third-party license](THIRD-PARTY-LICENSE.txt).
-- This repository distributes the game builds. Private signing keys, user data and workspace files are not included.
+- This repository distributes game builds without private signing keys or user data.
+
+---
+
+## العربية
+
+لعبة دومينو ثلاثية الأبعاد للأندرويد ضد الكمبيوتر، تعمل دون إنترنت. اسم التطبيق Jimmy Domino والإنجليزية هي اللغة الافتراضية، ويمكن اختيار العربية من قائمة اللعبة.
+
+**[تحميل Jimmy Domino 1.6 للأندرويد](https://raw.githubusercontent.com/jameelabo/JimmyDomino/main/JimmyDomino-v1.6.apk)**
+
+تحتاج Android 8.0 أو أحدث. افتح ملف APK واسمح بتثبيت التطبيقات من التطبيق الذي فتحته منه إذا طلب الهاتف ذلك. ثبّت التحديث فوق الحالية دون حذف التطبيق للحفاظ على الجولة والاسم وسجل المباريات. إذا كان اختيار العربية محفوظًا لديك، غيّره إلى English من القائمة.
+
+اللعبة تطلب اسم اللاعب وتحفظه محليًا، وتتيح تغييره من القائمة. فيها سحب القطع، مستويان للكمبيوتر، أصوات وزاويتان للطاولة، وحفظ تلقائي وسجل آخر 500 نتيجة. أول لاعب يصل إلى 100 نقطة يفوز.

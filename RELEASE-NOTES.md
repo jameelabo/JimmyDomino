@@ -1,10 +1,11 @@
-# Jimmy Domino 1.4
+# Jimmy Domino 1.6
 
-- Arabic and English interface with a remembered language choice.
-- Saved player name, used in turn messages and on the scoreboard.
-- Edit your name from the game menu.
-- 3D table, computer opponent, two difficulty levels and local match history.
+- Android app name is now Jimmy Domino.
+- English is the default for new installs and saved preferences without a language.
+- Explicit Arabic/English choices are preserved and can be changed in the menu.
+- Native exit prompts default to English.
+- Player name, saved round and match history are preserved.
 
-Android 8.0 or newer. Install the APK over your existing copy to keep progress.
+Requires Android 8.0+. Install over your existing app without uninstalling.
 
-العربية: اللعبة تدعم العربية والإنجليزية، وتطلب اسم اللاعب وتحفظه، مع إمكانية تعديله من القائمة. ثبّت التحديث فوق التطبيق الحالي دون حذفه للحفاظ على بياناتك.
+العربية: اسم التطبيق أصبح Jimmy Domino والإنجليزية هي الافتراضية، مع بقاء اختيار اللغة المحفوظ. ثبّت التحديث فوق الحالية دون حذف التطبيق.
